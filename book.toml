@@ -8,6 +8,8 @@ multilingual = false
 
 [preprocessor.alerts]
 
+[preprocessor.mermaid]
+
 [output.html]
 theme = "theme"
 smart-punctuation = true
@@ -15,4 +17,8 @@ git-repository-url = "https://github.com/NLJong/concept"
 edit-url-template = "https://github.com/NLJong/concept/edit/main/{path}"
 site-url = "https://concept.nlj.ong"
 additional-css = ["theme/pagetoc.css"]
-additional-js = ["theme/pagetoc.js"]
+additional-js = [
+	"theme/pagetoc.js",
+	"theme/mermaid-10.9.1.min.js",
+	"theme/init.js",
+]

@@ -2,6 +2,7 @@
   packages = [
     pkgs.mdbook
     pkgs.mdbook-alerts
+    pkgs.mdbook-mermaid
   ];
 
   processes = {
