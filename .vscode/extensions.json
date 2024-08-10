@@ -9,6 +9,7 @@
 		"bierner.markdown-preview-github-styles",
 		"bierner.markdown-mermaid",
 		"davidanson.vscode-markdownlint",
-		"jnoortheen.nix-ide"
+		"jnoortheen.nix-ide",
+		"dprint.dprint"
 	]
 }

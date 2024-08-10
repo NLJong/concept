@@ -1,5 +1,7 @@
 {pkgs, ...}: {
   packages = [
+    pkgs.dprint
+
     pkgs.mdbook
     pkgs.mdbook-alerts
     pkgs.mdbook-mermaid
