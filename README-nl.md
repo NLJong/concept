@@ -10,7 +10,7 @@
 
 ---
 
-## Contributors
+## Bijdragers
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- dprint-ignore-start -->

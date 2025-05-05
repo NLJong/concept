@@ -5,7 +5,7 @@
 		"README-nl.md",
 		"README-en.md"
 	],
-	"commitConvention": "gitmoji",
+	"commitConvention": "angular",
 	"contributors": [
 		{
 			"login": "mahtaran",

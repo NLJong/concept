@@ -19,6 +19,6 @@ site-url = "https://concept.nlj.ong"
 additional-css = ["theme/pagetoc.css"]
 additional-js = [
 	"theme/pagetoc.js",
-	"theme/mermaid-10.9.1.min.js",
+	"theme/mermaid-11.6.0.min.js",
 	"theme/init.js",
 ]
