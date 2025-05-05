@@ -4,7 +4,6 @@
 	"indentWidth": 4,
 	"newLineKind": "lf",
 	"json": {},
-	"markdown": {},
 	"toml": {},
 	"malva": {
 		"hexColorLength": "long"
@@ -15,7 +14,8 @@
 	"excludes": [
 		"**/*.min.js",
 		".all-contributorsrc",
-		"devenv.lock"
+		"devenv.lock",
+		"docs/slides/"
 	],
 	"plugins": [
 		"https://plugins.dprint.dev/json-0.20.0.wasm",

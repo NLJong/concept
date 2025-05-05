@@ -1,0 +1,19 @@
+# Disable rules that shouldn't be set for Marp Markdown
+
+# Force asterisk as unordered list item marker
+MD004: false
+# Force lines to be under 80 characters
+MD013: false
+# Disallow trailing punctuation in headings
+MD026:
+  punctuation: ".,;:"
+# Force ordered list items to start with 1 and increase
+MD029: false
+# Require blank lines around lists
+MD032: false
+# Disallow inline HTML
+MD033: false
+# Require first line to be a top level header
+MD041: false
+# Require images to have alt text
+MD045: false
