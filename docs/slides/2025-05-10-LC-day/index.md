@@ -52,7 +52,7 @@ section.lead p {
 ![bg](asset/meme/bonjour.png)
 
 <!--
-_verzoek om de Claper te joinen_
+[verzoek om de Claper te joinen]
 -->
 
 ---
@@ -198,7 +198,7 @@ _paginate: false
   -->
   * Voorzitter Jongerenraad Zutphen (2021 - einde der tijden)
   <!--
-  al een paar jaartjes voorzitter van de Jongerenraad Zutphen, maar in het dagelijks leven
+  maar in het dagelijks leven
   -->
   * Technical Computer Science @ Universiteit Twente, specialisatie Smart Spaces / Enterprise Architecture & IT Management
   <!--
@@ -229,14 +229,13 @@ Ik bezit over de kennis en middelen om zo een platform op te zetten
 
 ---
 
-# Hoe gaat dit eruit zien?
+# Hoe gaat het eruit zien?
 
 0) Toegang krijgen
 1) Informatie **vergaren**
 2) Informatie **delen**
 3) Informatie **opslaan**
-4) Informatie **gebruiken**
-5) Informatie **bespreken**
+4) Informatie **bespreken**
 
 ---
 
@@ -279,7 +278,15 @@ _paginate: hold
 
 * ### Waar zou **jij** meer over willen weten?
 
+  <!--
+  [INTERACTIEF] open vraag
+  -->
+
 * ### Waar heb **jij** veel kennis van?
+
+  <!--
+  [INTERACTIEF] open vraag
+  -->
 
 ---
 
@@ -305,17 +312,29 @@ _paginate: hold
 
   Ervaringen, tips, templates, …
 
+  <!--
+  [INTERACTIEF] open vraag
+  -->
+
 * ### Hou zou jij feedback willen **geven én ontvangen**?
+
+  <!--
+  [INTERACTIEF] multiple choice
+  - commentaar onderaan de pagina
+  - persoonlijke berichten
+  - like/dislike-systeem
+  - peer review
+  -->
 
 ---
 
 ## 3. Informatie **opslaan**
 
-* Controle
+* Controle op
   * juistheid
   * taalgebruik
   * neutraliteit
-* Website waar informatie:
+* Website waar informatie
   * vindbaar is
   * geordend is
   * altijd toegankelijk is
@@ -324,26 +343,40 @@ _paginate: hold
 
 ---
 
-## 4. Informatie **gebruiken**
+## 4. Informatie **bespreken**
 
-![bg contain right:40%](asset/illustration/reading.svg)
+* Wil je meer details weten?
+* Mis je bepaalde info?
+* Klopt iets niet (meer)?
+* Benieuwd hoe anderen hetzelfde hebben gedaan?
+* Informatie kan altijd verbeterd worden!
+
+![bg contain right:40%](asset/illustration/chat.svg)
 
 ---
 
-## 5. Informatie **bespreken**
+# Tijdlijn
 
-![bg contain left:40%](asset/illustration/chat.svg)
+* Komende maanden: ik bouw het platform
+* 1 november (LC Day!): begin pilot
+* november - februari: pilot
+  * wat werkt wel en wat niet
+  * feedback verzamelen
+  * wat missen we?
+* maart - april: aanpassingen aanbrengen
+* LC Day voorjaar 2026: lancering voor iedereen!
 
 ---
 
-# En nu?
+# Wat kan je nu al doen?
 
-* Ik ga de komende maanden het platform bouwen
-* Op de LC Day van 1 november lanceren we het platform
-* Dan begint een pilot van 4 maanden waarin we kijken wat wel en niet werkt, wat we missen en kunnen verbeteren
-  * Wil je meedoen aan de pilot? Laat het alvast weten!
-* Na de pilot brengen we benodigde aanpassingen aan
-* Op de LC Day van voorjaar 2026 is het platform klaar om door iedereen gebruikt te worden!
+* Denk na over:
+  * wat wil je weten
+  * wat kun je delen
+  * of je mee wil/kan doen aan de pilot (2-4 uur / week)
+* Tip van flip: kijk in je eigen initiatief ook eens hoe (en of!) informatie wordt overgedragen
+
+![bg contain right:40%](asset/meme/pointing.jpg)
 
 ---
 
@@ -353,6 +386,21 @@ _class: lead
 
 # Vragen?
 
+of is de informatie perfect … _overgedragen_
+
 <!--
-_footer: "Tekeningen © Vijay Verma"
+_footer: "Tekeningen © Vijay Verma | Memes © internet en ikzelf"
+--->
+
+---
+
+<!--
+_class: lead
+_paginate: hold
+-->
+
+![bg h:512](asset/meme/asking.png)
+
+<!--
+_footer: "Tekeningen © Vijay Verma | Memes © internet en ikzelf"
 --->
