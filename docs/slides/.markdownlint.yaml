@@ -4,6 +4,8 @@
 MD004: false
 # Force lines to be under 80 characters
 MD013: false
+# Disallow duplicate headings
+MD024: false
 # Disallow trailing punctuation in headings
 MD026:
   punctuation: ".,;:"

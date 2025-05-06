@@ -49,21 +49,27 @@ section.lead p {
 }
 </style>
 
+![bg](asset/meme/bonjour.png)
+
+<!--
+_verzoek om de Claper te joinen_
+-->
+
+---
+
 # Je krijgt een **vergoeding** vanuit je initiatief. Moet hier **belasting** over betaald worden?
 
 Zo ja, door wie?
 
-![bg contain right:40%](asset/wallet.svg)
+![bg contain right:40%](asset/illustration/wallet.svg)
 
----
+<!--
+Goedenmiddag allemaal, laat me beginnen met een vraag:
 
-1) Ben je een vrijwilliger?
-   1) Je initiatief is vrijgesteld van vennootschapsbelasting (= een vereniging of stichting zonder winst-oogmerk), of heeft een ANBI-status.
-   2) Je bent niet in dienst van je initiatief (= je hebt geen contract).
-   3) Je doet je werkzaamheden niet vanuit je beroep.
-   4) De vergoeding is zo laag dat deze niet in verhouding staat tot de omvang en het tijdsbeslag van het werk.*
-2) Is het een vergoeding voor meer dan alleen gemaakte kosten?
-   * Natura geldt hierin ook als vergoeding. Diepvriespizza van de Appie bij de vergadering? € 2.49 vergoeding.
+Als je een vergoeding krijgt vanuit je initiatief, moet daar dan belasting (zoals inkomstenbelasting) over betaald worden? En zo ja, moet je dat dan zelf aangeven bij de belastingaangifte, moet de organisatie dat direct doen als ze het uitbetalen, of moet dat op een andere manier?
+
+[INTERACTIEF] open vraag
+-->
 
 ---
 
@@ -71,11 +77,41 @@ Zo ja, door wie?
 _paginate: hold
 -->
 
+![bg 70%](asset/meme/paid.jpg)
+
+<!--
+Oké, enigszins een strikvraag, het antwoord is namelijk afhankelijk van een paar zaken.
+-->
+
+---
+
+1) Ben je een vrijwilliger?
+   1) initiatief is een ANBI of vrijgesteld van vennootschapsbelasting
+   2) niet in dienst van je initiatief
+   3) werkzaamheden doe je niet vanuit je beroep
+   4) vergoeding staat niet in verhouding tot de omvang van het werk¹
+2) Is het een vergoeding voor meer dan alleen gemaakte kosten?
 3) Is het totaalbedrag van de vergoedingen (inclusief gemaakte kosten en natura) meer dan (a) € 3.30 per uur (< 21 jaar) of € 5.60 per uur (≥ 21 jaar)¹, (b) € 210 per maand, of (c) € 2,100 per jaar?
-   * Ja: de organisatie moet inkomstenbelasting inhouden op de vergoeding en aan de belastingdienst afdragen.²
 4) Krijg je vergoedingen van andere organisaties, en kom je daarmee boven de grens? (Bijvoorbeeld: reisvergoeding LC Day)
-   * Ja: je moet het totaal van alle vergoedingen zelf aangeven bij de belastingaangifte.²
-5) Nee? Dan hoeft er geen belasting te worden betaald.
+
+<!--
+Natura (vergoeding in diensten of producten) geldt hierin ook als vergoeding.
+
+Diepvriespizza van de Appie bij de vergadering? € 2.49 vergoeding.
+-->
+
+---
+
+<!--
+_paginate: hold
+-->
+
+* 'Nee' op 1 → de organisatie moet inkomstenbelasting inhouden op de vergoeding en aan de belastingdienst afdragen
+* 'Nee' op 2, 3 & 4 → geen belasting
+* 'Ja' op 3 → de organisatie moet inkomstenbelasting inhouden op de vergoeding en aan de belastingdienst afdragen²
+* 'Ja' op 4 → je moet het totaal van alle vergoedingen zelf aangeven bij de belastingaangifte²
+
+![w:1280](asset/meme/what.png)
 
 <!--
 _footer: |
@@ -85,18 +121,57 @@ _footer: |
 
 ---
 
+<style scoped>
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+</style>
+
+# Wat is het punt?
+
+* ![h:512](asset/meme/question.jpg)
+
 <!--
-_class: lead
-_paginate: false
+En nu denk je misschien, leuk allemaal, maar
+
+1) als ik zo bij de borrel zit ben ik het hele verhaal weer vergeten, en
+2) wat heeft dit met wat dan ook te maken?
 -->
 
-# Hoe kunnen we dit soort informatie beter delen? Met een …
+---
+
+<!--
+_paginate: hold
+-->
+
+# Wat is het punt?
+
+* Kennis en ervaring is versnipperd
+* \+ Jongereninitiatieven hebben een vrij korte doorlooptijd
+* ∴ Waardevolle kennis gaat verloren
+* & Iedereen bouwt zijn eigen wielen
+
+---
+
+<!--
+_paginate: hold
+-->
+
+# Wat is het punt?
+
+- Kennis en ervaring is versnipperd
+- \+ Jongereninitiatieven hebben een vrij korte doorlooptijd
+- ∴ Waardevolle kennis gaat verloren
+- & Iedereen bouwt zijn eigen wielen
+
+![bg contain right:40%](asset/meme/no.jpg)
 
 ---
 
 <!--
 _class: lead
-_paginate: skip
+_paginate: false
 -->
 
 <style scoped>
@@ -105,7 +180,52 @@ _paginate: skip
   }
 </style>
 
-# <!--fit--> Kennisplatform!
+* ## Hoe kunnen we kennis verzamelen, behouden en met elkaar delen?
+
+* ## Met een …
+
+* # <!--fit--> Kennisplatform!
+
+---
+
+# In den beginne …
+
+* De wens bestaat al langer …
+* … maar technisch is het een uitdaging
+* Enter: ik!
+  <!--
+  Kort over mezelf: ik ben Luka
+  -->
+  * Voorzitter Jongerenraad Zutphen (2021 - einde der tijden)
+  <!--
+  al een paar jaartjes voorzitter van de Jongerenraad Zutphen, maar in het dagelijks leven
+  -->
+  * Technical Computer Science @ Universiteit Twente, specialisatie Smart Spaces / Enterprise Architecture & IT Management
+  <!--
+  (oftewel: hoe kan je informatiesystemen effectief integreren met complexe bedrijfsprocessen)
+  -->
+  * Back-end engineer & security architect @ Fledge
+* Oftewel:
+
+---
+
+<!--
+_paginate: hold
+-->
+
+# In den beginne …
+
+![h:512](asset/meme/tehc.png)
+
+<!--
+Ik bezit over de kennis en middelen om zo een platform op te zetten
+-->
+
+---
+
+# Reisplan
+
+![h:512](asset/reisplan.png)
 
 ---
 
@@ -126,7 +246,17 @@ _paginate: skip
 * Later kunnen we kijken naar het (gedeeltelijk) openstellen van het platform
 * Je gaat een persoonlijk account kunnen aanvragen bij je regiocoördinator
 
-![bg contain right:40%](asset/password.svg)
+![bg contain right:40%](asset/illustration/password.svg)
+
+---
+
+<!--
+_paginate: hold
+-->
+
+## 0. Toegang krijgen
+
+![h:512](asset/meme/angry.jpg)
 
 ---
 
@@ -138,7 +268,7 @@ _paginate: skip
 * Hoe voer je impactvolle campagne als jongere?
 * Hoe zorg je dat beleidsmakers naar je luisteren?
 
-![bg contain left:40%](asset/blackboard.svg)
+![bg contain left:40%](asset/illustration/blackboard.svg)
 
 ---
 
@@ -162,7 +292,7 @@ _paginate: hold
 * Maar toch betrouwbaar?
   * → feedback!
 
-![bg contain right:40%](asset/typing.svg)
+![bg contain right:40%](asset/illustration/typing.svg)
 
 ---
 
@@ -181,24 +311,28 @@ _paginate: hold
 
 ## 3. Informatie **opslaan**
 
+* Controle
+  * juistheid
+  * taalgebruik
+  * neutraliteit
 * Website waar informatie:
   * vindbaar is
   * geordend is
   * altijd toegankelijk is
 
-![bg contain left:40%](asset/vault.svg)
+![bg contain left:40%](asset/illustration/vault.svg)
 
 ---
 
 ## 4. Informatie **gebruiken**
 
-![bg contain right:40%](asset/reading.svg)
+![bg contain right:40%](asset/illustration/reading.svg)
 
 ---
 
 ## 5. Informatie **bespreken**
 
-![bg contain left:40%](asset/chat.svg)
+![bg contain left:40%](asset/illustration/chat.svg)
 
 ---
 
