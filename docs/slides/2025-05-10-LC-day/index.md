@@ -42,6 +42,11 @@ ul:has(h1), ul:has(h2), ul:has(h3), ul:has(h4), ul:has(h5), ul:has(h6) {
   list-style: none;
   padding: 0;
 }
+
+/* Centre title page text */
+section.lead p {
+  text-align: center;
+}
 </style>
 
 # Je krijgt een **vergoeding** vanuit je initiatief. Moet hier **belasting** over betaald worden?
@@ -117,9 +122,9 @@ _paginate: skip
 
 ## 0. Toegang krijgen
 
-* We gaan beginnen met een besloten platform
-* In een later stadium kunnen we kijken naar het (gedeeltelijk) openstellen van het platform
-* Je kan een persoonlijk account aanvragen bij je regiocoördinator
+* We beginnen met een besloten platform
+* Later kunnen we kijken naar het (gedeeltelijk) openstellen van het platform
+* Je gaat een persoonlijk account kunnen aanvragen bij je regiocoördinator
 
 ![bg contain right:40%](asset/password.svg)
 
@@ -150,11 +155,36 @@ _paginate: hold
 
 ## 2. Informatie **delen**
 
+* Toegankelijk
+  * ingewikkelde informatie ≠ ingewikkeld informeren
+* Inhoudsgericht
+  * het hoeft geen volledig weten&shy;schappelijke dissertatie te zijn
+* Maar toch betrouwbaar?
+  * → feedback!
+
 ![bg contain right:40%](asset/typing.svg)
 
 ---
 
+<!--
+_class: lead
+_paginate: hold
+-->
+
+* ### Hoe zou **jij** informatie willen delen?
+
+  Ervaringen, tips, templates, …
+
+* ### Hou zou jij feedback willen **geven én ontvangen**?
+
+---
+
 ## 3. Informatie **opslaan**
+
+* Website waar informatie:
+  * vindbaar is
+  * geordend is
+  * altijd toegankelijk is
 
 ![bg contain left:40%](asset/vault.svg)
 
@@ -190,5 +220,5 @@ _class: lead
 # Vragen?
 
 <!--
-_footer: "Afbeeldingen © Vijay Verma"
+_footer: "Tekeningen © Vijay Verma"
 --->
