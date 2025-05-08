@@ -106,10 +106,10 @@ Diepvriespizza van de Appie bij de vergadering? € 2.49 vergoeding.
 _paginate: hold
 -->
 
-* 'Nee' op 1 → de organisatie moet inkomstenbelasting inhouden op de vergoeding en aan de belastingdienst afdragen
-* 'Nee' op 2, 3 & 4 → geen belasting
-* 'Ja' op 3 → de organisatie moet inkomstenbelasting inhouden op de vergoeding en aan de belastingdienst afdragen²
-* 'Ja' op 4 → je moet het totaal van alle vergoedingen zelf aangeven bij de belastingaangifte²
+* **'Nee' op 1 →** de organisatie moet inkomstenbelasting inhouden op de vergoeding en aan de belastingdienst afdragen
+* **'Nee' op 2, 3 & 4 →** geen belasting
+* **'Ja' op 3 →** de organisatie moet inkomstenbelasting inhouden op de vergoeding en aan de belastingdienst afdragen²
+* **'Ja' op 4 →** je moet het totaal van alle vergoedingen zelf aangeven bij de belastingaangifte²
 
 ![w:1280](asset/meme/what.png)
 
@@ -151,6 +151,8 @@ _paginate: hold
 * \+ Jongereninitiatieven hebben een vrij korte doorlooptijd
 * ∴ Waardevolle kennis gaat verloren
 * & Iedereen bouwt zijn eigen wielen
+
+![bg contain right:40%](asset/meme/no%20(empty).png)
 
 ---
 
@@ -241,9 +243,9 @@ Ik bezit over de kennis en middelen om zo een platform op te zetten
 
 ## 0. Toegang krijgen
 
-* We beginnen met een besloten platform
-* Later kunnen we kijken naar het (gedeeltelijk) openstellen van het platform
-* Je gaat een persoonlijk account kunnen aanvragen bij je regiocoördinator
+* **Begin:** besloten platform
+* **Later:** kijken naar (gedeeltelijk) openstellen van het platform
+* **Persoonlijk account aanvragen →** bij regiocoördinator _(na lancering)_
 
 ![bg contain right:40%](asset/illustration/password.svg)
 
@@ -316,16 +318,6 @@ _paginate: hold
   [INTERACTIEF] open vraag
   -->
 
-* ### Hou zou jij feedback willen **geven én ontvangen**?
-
-  <!--
-  [INTERACTIEF] multiple choice
-  - commentaar onderaan de pagina
-  - persoonlijke berichten
-  - like/dislike-systeem
-  - peer review
-  -->
-
 ---
 
 ## 3. Informatie **opslaan**
@@ -343,6 +335,21 @@ _paginate: hold
 
 ---
 
+<!--
+_class: lead
+_paginate: hold
+-->
+
+* ### Wat zijn jouw **eisen voor de website**?
+
+  Meldingen nieuwe info over bepaald thema, commentaar, samenvattingen & gerelateerde artikelen (AI?), …
+
+  <!--
+  [INTERACTIEF] open vraag
+  -->
+
+---
+
 ## 4. Informatie **bespreken**
 
 * Wil je meer details weten?
@@ -355,26 +362,43 @@ _paginate: hold
 
 ---
 
+<!--
+_class: lead
+_paginate: hold
+-->
+
+* ### Hou zou jij feedback willen **geven én ontvangen**?
+
+  <!--
+  [INTERACTIEF] multiple choice
+  - commentaar onderaan de pagina
+  - persoonlijke berichten
+  - like/dislike-systeem
+  - peer review
+  -->
+
+---
+
 # Tijdlijn
 
-* Komende maanden: ik bouw het platform
-* 1 november (LC Day!): begin pilot
-* november - februari: pilot
+* **Komende maanden:** ik bouw het platform
+* **1 november (LC Day!):** begin pilot
+* **november - februari:** pilot
   * wat werkt wel en wat niet
   * feedback verzamelen
   * wat missen we?
-* maart - april: aanpassingen aanbrengen
-* LC Day voorjaar 2026: lancering voor iedereen!
+* **maart - april:** aanpassingen aanbrengen
+* **LC Day voorjaar 2026:** lancering voor iedereen!
 
 ---
 
 # Wat kan je nu al doen?
 
-* Denk na over:
+* **Denk na over:**
   * wat wil je weten
   * wat kun je delen
   * of je mee wil/kan doen aan de pilot (2-4 uur / week)
-* Tip van flip: kijk in je eigen initiatief ook eens hoe (en of!) informatie wordt overgedragen
+* **Tip van flip:** kijk in je eigen initiatief ook eens hoe (en of!) informatie wordt overgedragen
 
 ![bg contain right:40%](asset/meme/pointing.jpg)
 
@@ -400,6 +424,10 @@ _paginate: hold
 -->
 
 ![bg h:512](asset/meme/asking.png)
+
+<!--
+[INTERACTIEF] aanmeldformulier
+-->
 
 <!--
 _footer: "Tekeningen © Vijay Verma | Memes © internet en ikzelf"
